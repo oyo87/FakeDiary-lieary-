@@ -5123,5 +5123,5 @@
 
 <br>
 
-![역할분담](readme_img/role.png)
+![역할분담](readme_img/role_up.png)
 
